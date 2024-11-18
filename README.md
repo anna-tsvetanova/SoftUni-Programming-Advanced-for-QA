@@ -1,4 +1,4 @@
-# SoftUni-Programming-Advanced-for-QA-November-2024
+# SoftUni-Programming-Advanced-for-QA
 
 Course Goals
 ▪ Develop a strong foundation in programming 
