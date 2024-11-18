@@ -1,0 +1,1 @@
+# SoftUni-Programming-Advanced-for-QA-November-2024
