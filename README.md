@@ -13,10 +13,15 @@ ensure software reliability
 ▪ Cultivate critical thinking and problem-solving skills 
 through various coding challenges, exercises and projects
 
-Course Scope - working with:
+Course Scope:
+
  ▪ Texts and their manipulation
+ 
  ▪ Associative arrays and LINQ
+ 
  ▪ Objects and classes
+ 
  ▪ Exceptions and their handling
+ 
  ▪ Unit testing on the different scenarios
  
