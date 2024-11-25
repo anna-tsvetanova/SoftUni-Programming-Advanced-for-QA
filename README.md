@@ -1,6 +1,6 @@
 # SoftUni-Programming-Advanced-for-QA
 
-Course Goals:
+**Course Goals:**
 
 ▪ Develop a strong foundation in programming 
 concepts and techniques, enabling students to 
@@ -13,7 +13,7 @@ ensure software reliability
 ▪ Cultivate critical thinking and problem-solving skills 
 through various coding challenges, exercises and projects
 
-Course Scope:
+**Course Scope:**
 
  ▪ Texts and their manipulation
  
